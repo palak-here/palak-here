@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Palak</h1>
 <h3 align="center">A passionate frontend developer and robotics enthusiast.</h3>
-<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/806848089530347741/"
+<img align="right" alt="Coding" width="400" src="<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/9900cf2b-eaed-47bc-a2d9-b0140a127884" />
+"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palak-here&label=Profile%20views&color=0e75b6&style=flat" alt="palak-here" /> </p>
 
