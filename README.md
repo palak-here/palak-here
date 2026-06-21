@@ -1,8 +1,6 @@
-[![MasterHead](https://www.google.com/search?q=animated+gif+github+gif+banner&tbnid=DOFN89xvIB68YM&tbnh=0&tbnw=0&cs=1&rlz=1C1CHBF_enIN1134IN1134&sca_esv=504d30511203df3e&udm=2&biw=1536&bih=695&sxsrf=APpeQnssLZsdDC3vWkQrtcD5379jUMIKPA%3A1782038381459&ei=bb83atPMG4-wseMPkqCH4Aw&ved=0ahUKEwiTt8-lkpiVAxUPWGwGHRLQAcwQ4dUDCBM&uact=5&oq=animated+gif+github+gif+banner&gs_lp=Egtnd3Mtd2l6LWltZyIeYW5pbWF0ZWQgZ2lmIGdpdGh1YiBnaWYgYmFubmVySLUZUM0EWI4XcAF4AJABAJgBpQOgAZcOqgEHMi01LjAuMbgBA8gBAPgBAZgCAaACCMICBxAjGMkCGCeYAwCIBgGSBwExoAdIsgcAuAcAwgcDMi0xyAcGgAgB&sclient=gws-wiz-img#sv=CAMSURoyKhBlLUdxbDhuNzZDZHBHdkpNMg5HcWw4bjc2Q2RwR3ZKTToOX3BWcHZ3bEc3amh4Vk0gBCoXCgFzEhBlLUdxbDhuNzZDZHBHdkpNGAEwARgHIIWOptgJSggQARgBIAEoAQ)
-
 <h1 align="center">Hi 👋, I'm Palak</h1>
 <h3 align="center">A passionate frontend developer and robotics enthusiast.</h3>
-<img align="right" alt="Coding" width="400" src="<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/9900cf2b-eaed-47bc-a2d9-b0140a127884" />
+<img align="right" alt="Coding" width="400" src="<img width="480" height="270" alt="image" src=">
 "
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palak-here&label=Profile%20views&color=0e75b6&style=flat" alt="palak-here" /> </p>
