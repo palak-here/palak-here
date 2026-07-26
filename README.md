@@ -1,28 +1,26 @@
 <p align="center">
-  <img src="banner.png" alt="Banner" width="100%">
+<img src="banner.png" width="100%" alt="Palak Banner">
 </p>
 
 <h1 align="center">Hi, I'm Palak 👋</h1>
 
-<h3 align="center">
-AI • Full Stack • Machine Learning
-</h3>
+<h3 align="center">AI • Full Stack Developer • Machine Learning Enthusiast</h3>
 
 <p align="center">
 Building intelligent systems through code, curiosity and creativity.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=750&lines=AI+%26+Full+Stack+Developer;Machine+Learning+Explorer;Building+Modern+Web+Applications;Robotics+Enthusiast;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer;Machine+Learning+Explorer;Building+Modern+Web+Applications;Robotics+Enthusiast;Open+Source+Contributor"/>
 </p>
 
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=palak-here&style=for-the-badge&color=FFD700"/>
 
-<img src="https://img.shields.io/github/followers/palak-here?style=for-the-badge&logo=github&color=FFD700&labelColor=000000"/>
+<img src="https://img.shields.io/github/followers/palak-here?style=for-the-badge&logo=github&label=Followers&color=FFD700&labelColor=000000"/>
 
-<img src="https://img.shields.io/github/stars/palak-here?style=for-the-badge&logo=github&color=FFD700&labelColor=000000"/>
+<img src="https://img.shields.io/github/stars/palak-here?style=for-the-badge&logo=github&label=Stars&color=FFD700&labelColor=000000"/>
 
 </p>
 
@@ -31,10 +29,9 @@ Building intelligent systems through code, curiosity and creativity.
 # ✨ About Me
 
 <table>
-
 <tr>
 
-<td width="60%">
+<td width="60%" valign="top">
 
 ```cpp
 class Palak {
@@ -60,21 +57,20 @@ public:
     };
 
     string currentFocus =
-    "Building intelligent systems that solve real problems.";
+    "Building intelligent systems that solve real-world problems.";
 
 };
 ```
 
 </td>
 
-<td width="40%" align="center">
+<td width="40%" align="center" valign="middle">
 
-<img src="https://github.com/user-attachments/assets/03d1122a-3019-4b8f-ba2e-c9d402b1437e" width="240">
+<img src="https://github.com/user-attachments/assets/03d1122a-3019-4b8f-ba2e-c9d402b1437e" width="200">
 
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -91,11 +87,11 @@ public:
 
 # 🚀 Featured Projects
 
-| AI & ML | Web Development |
-|:---------|:----------------|
-| 🤖 AI Assistant | 🌐 Portfolio Website |
-| 🧠 Machine Learning | 📚 Learning Management System |
-| 💬 Chatbot | 🛒 E-Commerce Website |
+| 🤖 AI Projects | 🌐 Web Development |
+|---------------|--------------------|
+| AI Assistant | Portfolio Website |
+| Machine Learning | Learning Management System |
+| Smart Chatbot | E-Commerce Website |
 
 ---
 
@@ -141,7 +137,7 @@ public:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=palak-here&theme=algolia&no-frame=true&margin-w=15&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=palak-here&theme=algolia&no-frame=true&row=1&column=6&margin-w=15"/>
 
 </p>
 
@@ -152,8 +148,8 @@ public:
 - ☁️ Cloud Computing
 - ⚙️ System Design
 - 🐳 Docker
-- 🧠 Machine Learning
-- 🔧 Backend Development
+- 🤖 Machine Learning
+- 🔥 Backend Development
 
 ---
 
@@ -166,7 +162,7 @@ public:
 </a>
 
 <a href="mailto:palak02singh05@gmail.com">
-<img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=000000"/>
 </a>
 
 </p>
@@ -174,13 +170,11 @@ public:
 ---
 
 <p align="center">
-
 <i>"Keep learning. Keep building. Keep shipping."</i>
-
 </p>
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=120&section=footer"/>
 
 </p>
