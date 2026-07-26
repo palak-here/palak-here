@@ -1,17 +1,29 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Banner"/>
+  <img src="banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Palak</h1>
+<h1 align="center">Hi, I'm Palak 👋</h1>
 
-<h3 align="center">AI & Full Stack Developer</h3>
+<h3 align="center">
+AI • Full Stack • Machine Learning
+</h3>
 
 <p align="center">
 Building intelligent systems through code, curiosity and creativity.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3500&pause=1200&color=FFD700&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer;Building+Modern+Web+Applications;Machine+Learning+Explorer;Robotics+Enthusiast;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=750&lines=AI+%26+Full+Stack+Developer;Machine+Learning+Explorer;Building+Modern+Web+Applications;Robotics+Enthusiast;Always+Learning+Something+New"/>
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=palak-here&style=for-the-badge&color=FFD700"/>
+
+<img src="https://img.shields.io/github/followers/palak-here?style=for-the-badge&logo=github&color=FFD700&labelColor=000000"/>
+
+<img src="https://img.shields.io/github/stars/palak-here?style=for-the-badge&logo=github&color=FFD700&labelColor=000000"/>
+
 </p>
 
 ---
@@ -24,28 +36,40 @@ Building intelligent systems through code, curiosity and creativity.
 
 <td width="60%">
 
-### 👩‍💻 Developer
+```cpp
+class Palak {
 
-- 🎓 B.Tech Student
-- 💻 AI & Full Stack Developer
-- 🤖 Interested in Artificial Intelligence
-- 🌐 Love creating modern web applications
-- 🚀 Open Source Enthusiast
-- 📚 Always learning something new
+public:
 
-### 🌱 Currently Learning
+    string role = "AI & Full Stack Developer";
 
-- System Design
-- Backend Development
-- Machine Learning
-- Cloud Computing
-- Docker
+    string education = "B.Tech Student";
+
+    vector<string> interests = {
+
+        "Artificial Intelligence",
+
+        "Machine Learning",
+
+        "Backend Development",
+
+        "Web Development",
+
+        "Open Source"
+
+    };
+
+    string currentFocus =
+    "Building intelligent systems that solve real problems.";
+
+};
+```
 
 </td>
 
 <td width="40%" align="center">
 
-<img src="https://github.com/user-attachments/assets/03d1122a-3019-4b8f-ba2e-c9d402b1437e" width="220"/>
+<img src="https://github.com/user-attachments/assets/03d1122a-3019-4b8f-ba2e-c9d402b1437e" width="240">
 
 </td>
 
@@ -59,7 +83,7 @@ Building intelligent systems through code, curiosity and creativity.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?theme=dark&i=c,cpp,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,docker,figma&perline=8"/>
+<img src="https://skillicons.dev/icons?theme=dark&i=c,cpp,python,html,css,js,react,nodejs,express,mongodb,mysql,docker,git,github,linux,vscode,figma&perline=8"/>
 
 </p>
 
@@ -67,33 +91,11 @@ Building intelligent systems through code, curiosity and creativity.
 
 # 🚀 Featured Projects
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🧠 AI Projects
-
-- 🤖 Smart Chatbot
-- 📊 Machine Learning Projects
-- 🧠 AI Assistant
-
-</td>
-
-<td width="50%">
-
-### 🌐 Web Development
-
-- 💼 Portfolio Website
-- 📚 Learning Management System
-- 🛒 E-Commerce Website
-
-</td>
-
-</tr>
-
-</table>
+| AI & ML | Web Development |
+|:---------|:----------------|
+| 🤖 AI Assistant | 🌐 Portfolio Website |
+| 🧠 Machine Learning | 📚 Learning Management System |
+| 💬 Chatbot | 🛒 E-Commerce Website |
 
 ---
 
@@ -101,15 +103,15 @@ Building intelligent systems through code, curiosity and creativity.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=palak-here&show_icons=true&theme=github_dark&hide_border=true&title_color=FFD700&icon_color=FFD700"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=palak-here&show_icons=true&theme=github_dark&hide_border=true&title_color=FFD700&icon_color=FFD700&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palak-here&layout=compact&theme=github_dark&hide_border=true&title_color=FFD700"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=palak-here&layout=compact&theme=github_dark&hide_border=true&title_color=FFD700"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=palak-here&theme=github-dark&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=palak-here&theme=github-dark&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700"/>
 
 </p>
 
@@ -119,7 +121,7 @@ Building intelligent systems through code, curiosity and creativity.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=palak-here&bg_color=0d1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=palak-here&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true"/>
 
 </p>
 
@@ -139,9 +141,19 @@ Building intelligent systems through code, curiosity and creativity.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=palak-here&theme=algolia&no-frame=true&margin-w=15&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=palak-here&theme=algolia&no-frame=true&margin-w=15&row=1&column=6"/>
 
 </p>
+
+---
+
+# 🌱 Currently Learning
+
+- ☁️ Cloud Computing
+- ⚙️ System Design
+- 🐳 Docker
+- 🧠 Machine Learning
+- 🔧 Backend Development
 
 ---
 
@@ -163,14 +175,12 @@ Building intelligent systems through code, curiosity and creativity.
 
 <p align="center">
 
-### ✨ Quote of the Day
-
-*"Success isn't about being the best. It's about being better than yesterday."*
+<i>"Keep learning. Keep building. Keep shipping."</i>
 
 </p>
 
 <p align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=130&section=footer"/>
 
 </p>
