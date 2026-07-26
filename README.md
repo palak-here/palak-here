@@ -1,5 +1,5 @@
 <p align="center">
-<img src="banner.png" width="100%" alt="Palak Banner">
+  <img src="banner.png" alt="Palak Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Palak 👋</h1>
@@ -11,27 +11,18 @@ Building intelligent systems through code, curiosity and creativity.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer;Machine+Learning+Explorer;Building+Modern+Web+Applications;Robotics+Enthusiast;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3500&pause=1200&color=FFD700&center=true&vCenter=true&width=700&lines=AI+Developer;Full+Stack+Developer;Machine+Learning+Explorer;Robotics+Enthusiast;Always+Learning"/>
 </p>
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=palak-here&style=for-the-badge&color=FFD700"/>
-
-<img src="https://img.shields.io/github/followers/palak-here?style=for-the-badge&logo=github&label=Followers&color=FFD700&labelColor=000000"/>
-
-<img src="https://img.shields.io/github/stars/palak-here?style=for-the-badge&logo=github&label=Stars&color=FFD700&labelColor=000000"/>
-
+<img src="https://img.shields.io/github/followers/palak-here?style=for-the-badge&logo=github&color=FFD700&labelColor=000000"/>
+<img src="https://img.shields.io/github/stars/palak-here?style=for-the-badge&logo=github&color=FFD700&labelColor=000000"/>
 </p>
 
 ---
 
 # ✨ About Me
-
-<table>
-<tr>
-
-<td width="60%" valign="top">
 
 ```cpp
 class Palak {
@@ -45,13 +36,9 @@ public:
     vector<string> interests = {
 
         "Artificial Intelligence",
-
         "Machine Learning",
-
         "Backend Development",
-
         "Web Development",
-
         "Open Source"
 
     };
@@ -62,16 +49,11 @@ public:
 };
 ```
 
-</td>
+<p align="center">
 
-<td width="40%" align="center" valign="middle">
+<img src="https://github.com/user-attachments/assets/03d1122a-3019-4b8f-ba2e-c9d402b1437e" width="220">
 
-<img src="https://github.com/user-attachments/assets/03d1122a-3019-4b8f-ba2e-c9d402b1437e" width="200">
-
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
@@ -87,11 +69,11 @@ public:
 
 # 🚀 Featured Projects
 
-| 🤖 AI Projects | 🌐 Web Development |
-|---------------|--------------------|
-| AI Assistant | Portfolio Website |
-| Machine Learning | Learning Management System |
-| Smart Chatbot | E-Commerce Website |
+- 🤖 AI Assistant
+- 🧠 Machine Learning Projects
+- 🌐 Portfolio Website
+- 📚 Learning Management System
+- 🛒 E-Commerce Website
 
 ---
 
@@ -99,15 +81,13 @@ public:
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=palak-here&show_icons=true&theme=github_dark&hide_border=true&title_color=FFD700&icon_color=FFD700&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=palak-here&layout=compact&theme=github_dark&hide_border=true&title_color=FFD700"/>
+<img src="https://github-readme-stats.vercel.app/api?username=palak-here&show_icons=true&theme=github_dark&hide_border=true&title_color=FFD700&icon_color=FFD700"/>
 
 </p>
 
 <p align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=palak-here&theme=github-dark&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700"/>
+<img src="https://streak-stats.demolab.com?user=palak-here&theme=github-dark&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700"/>
 
 </p>
 
@@ -127,7 +107,7 @@ public:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/palak-here/palak-here/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/palak-here/palak-here/output/github-contribution-grid-snake-dark.svg">
 
 </p>
 
@@ -137,7 +117,7 @@ public:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=palak-here&theme=algolia&no-frame=true&row=1&column=6&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=palak-here&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -149,7 +129,7 @@ public:
 - ⚙️ System Design
 - 🐳 Docker
 - 🤖 Machine Learning
-- 🔥 Backend Development
+- 🚀 Backend Development
 
 ---
 
@@ -170,7 +150,9 @@ public:
 ---
 
 <p align="center">
-<i>"Keep learning. Keep building. Keep shipping."</i>
+
+<i>Keep learning. Keep building. Keep shipping.</i>
+
 </p>
 
 <p align="center">
