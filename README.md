@@ -1,71 +1,105 @@
-<img src="./banner.jpg" alt="MasterHead" width="100%">
-
-<h1 align="center">Hi 👋, I'm Palak</h1>
-
-<h3 align="center">A passionate frontend developer and robotics enthusiast.</h3>
-
-<img align="right" alt="Coding" width="350" src="./thepixelartgirl.jpg"/>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=palak-here&label=Profile%20views&color=0e75b6&style=flat" alt="palak-here" />
+<p align="center">
+  <img src="banner.png" width="100%" alt="Palak Banner">
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=palak-here" alt="palak-here" />
-  </a>
+<h1 align="center">
+Hi, I'm Palak 👋
+</h1>
+
+<h3 align="center">
+AI & Full Stack Developer
+</h3>
+
+<p align="center">
+Building ideas into intelligent systems.
 </p>
 
-- 🔭 I’m currently working on **Open Source Projects**
-
-- 🌱 I’m currently learning **Node.js**
-
-- 💬 Ask me about **Java, AI/ML**
-
-- 📫 How to reach me **palak02singh05@gmail.com**
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Explorer;Robotics+Enthusiast;Open+Source+Learner;Always+Building"/>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+---
 
-<p>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=palak-here&show_icons=true&theme=tokyonight"
-    alt="palak-here" />
+# ✨ About Me
+
+```cpp
+class Palak {
+public:
+    string role = "AI & Full Stack Developer";
+    string education = "B.Tech Student";
+    vector<string> interests = {
+        "Artificial Intelligence",
+        "Robotics",
+        "Web Development",
+        "Open Source"
+    };
+
+    string currentFocus = "Building projects that solve real-world problems.";
+
+    bool coffee = true;
+};
+```
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?theme=dark&i=c,cpp,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,docker"/>
+
 </p>
 
-<p>
-  <img align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=palak-here&theme=tokyonight"
-    alt="palak-here" />
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=palak-here&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palak-here&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
-<p>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=palak-here&layout=compact&theme=tokyonight"
-    alt="palak-here" />
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=palak-here&theme=github-dark&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700"/>
+
 </p>
+
+---
+
+# 🌱 Currently Learning
+
+- System Design
+- Cloud Computing
+- Machine Learning
+- Backend Development
+- DevOps
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/palak-singh-b174a331b">
+<img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+</a>
+
+<a href="mailto:palak02singh05@gmail.com">
+<img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=000000"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> *"Keep learning. Keep building. Keep shipping."*
+
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=120&section=footer"/>
