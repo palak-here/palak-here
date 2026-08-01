@@ -2,17 +2,9 @@
   <img src="banner.png" width="100%" alt="Banner">
 </p>
 
-<p align="center">
-  <img src="https://github.com/palak-here.png" width="170" alt="Palak">
-</p>
+<h1 align="center">Hi, I'm Palak 👋</h1>
 
-<h1 align="center">
-Hi, I'm Palak 👋
-</h1>
-
-<h3 align="center">
-AI • Full Stack Developer • Machine Learning Enthusiast
-</h3>
+<h3 align="center">AI • Full Stack Developer • Machine Learning Enthusiast</h3>
 
 <p align="center">
 Building intelligent systems through code, curiosity and creativity.
@@ -23,19 +15,16 @@ Building intelligent systems through code, curiosity and creativity.
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=palak-here&style=for-the-badge&color=FFD700"/>
-
-<img src="https://img.shields.io/github/followers/palak-here?style=for-the-badge&logo=github&color=FFD700&labelColor=000000"/>
-
+  <img src="https://komarev.com/ghpvc/?username=palak-here&style=for-the-badge&color=FFD700"/>
+  <img src="https://img.shields.io/github/followers/palak-here?style=for-the-badge&logo=github&color=FFD700&labelColor=000000"/>
 </p>
 
 ---
 
 # ✨ About Me
 
-- 🎓 B.Tech Student
-- 💻 AI & Full Stack Developer
+- 🎓 **B.Tech Student**
+- 💻 **AI & Full Stack Developer**
 - 🤖 Passionate about Artificial Intelligence
 - 🌐 Love building scalable web applications
 - 🚀 Open Source Enthusiast
@@ -56,13 +45,11 @@ Building intelligent systems through code, curiosity and creativity.
 
 # 🚀 Featured Projects
 
-<p align="center">
-
-Coming Soon...
-
-Building projects I'm proud to showcase.
-
-</p>
+| AI & ML | Full Stack |
+|---------|------------|
+| 🤖 AI Assistant | 🌐 Portfolio Website |
+| 📊 Machine Learning Projects | 🛒 E-Commerce Website |
+| 🧠 Deep Learning | 📚 Learning Management System |
 
 ---
 
@@ -72,7 +59,7 @@ Building projects I'm proud to showcase.
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=palak-here&show_icons=true&theme=github_dark&hide_border=true&title_color=FFD700&icon_color=FFD700"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=palak-here&layout=compact&theme=github_dark&hide_border=true&title_color=FFD700"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palak-here&layout=compact&theme=github_dark&hide_border=true&title_color=FFD700"/>
 
 </p>
 
@@ -98,7 +85,7 @@ Building projects I'm proud to showcase.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/palak-here/palak-here/output/github-contribution-grid-snake-dark.svg" alt="Snake"/>
+<img src="https://raw.githubusercontent.com/palak-here/palak-here/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </p>
 
@@ -110,11 +97,11 @@ Building projects I'm proud to showcase.
 - ⚙️ System Design
 - 🤖 Machine Learning
 - 🐳 Docker
-- 🚀 Backend Engineering
+- 🚀 Backend Development
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -132,12 +119,12 @@ Building projects I'm proud to showcase.
 
 <p align="center">
 
-<i>"Keep learning. Keep building. Keep shipping."</i>
+*"Keep learning. Keep building. Keep shipping."*
 
 </p>
 
 <p align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=120&section=footer"/>
 
 </p>
