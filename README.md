@@ -1,11 +1,17 @@
 <p align="center">
-<img src="banner.png" width="100%">
+  <img src="banner.png" width="100%" alt="Banner">
 </p>
 
-<h1 align="center">Hi, I'm Palak 👋</h1>
+<p align="center">
+  <img src="https://github.com/palak-here.png" width="170" alt="Palak">
+</p>
+
+<h1 align="center">
+Hi, I'm Palak 👋
+</h1>
 
 <h3 align="center">
-AI • Full Stack • Machine Learning
+AI • Full Stack Developer • Machine Learning Enthusiast
 </h3>
 
 <p align="center">
@@ -13,8 +19,14 @@ Building intelligent systems through code, curiosity and creativity.
 </p>
 
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=AI+Developer;Full+Stack+Developer;Machine+Learning+Explorer;Robotics+Enthusiast;Open+Source+Contributor"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=AI+Developer;Full+Stack+Developer;Machine+Learning+Explorer;Open+Source+Contributor"/>
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=palak-here&style=for-the-badge&color=FFD700"/>
+
+<img src="https://img.shields.io/github/followers/palak-here?style=for-the-badge&logo=github&color=FFD700&labelColor=000000"/>
 
 </p>
 
@@ -24,11 +36,11 @@ Building intelligent systems through code, curiosity and creativity.
 
 - 🎓 B.Tech Student
 - 💻 AI & Full Stack Developer
-- 🤖 Exploring Artificial Intelligence
-- 🌐 Building modern web applications
+- 🤖 Passionate about Artificial Intelligence
+- 🌐 Love building scalable web applications
 - 🚀 Open Source Enthusiast
-- 📚 Learning Machine Learning & Cloud
-- ✨ Building products that solve real problems
+- 📚 Currently learning Machine Learning, Cloud & System Design
+- ✨ Building projects that solve real-world problems
 
 ---
 
@@ -36,7 +48,7 @@ Building intelligent systems through code, curiosity and creativity.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?theme=dark&i=c,cpp,python,html,css,js,react,nodejs,express,mongodb,mysql,docker,git,github,linux,vscode,figma&perline=8"/>
+<img src="https://skillicons.dev/icons?theme=dark&i=c,cpp,python,java,html,css,js,react,nodejs,express,mongodb,mysql,docker,git,github,linux,vscode,figma&perline=9"/>
 
 </p>
 
@@ -44,17 +56,13 @@ Building intelligent systems through code, curiosity and creativity.
 
 # 🚀 Featured Projects
 
-### 🛒 SmartBuy
+<p align="center">
 
-Modern e-commerce platform.
+Coming Soon...
 
-### 📚 Learning Management System
+Building projects I'm proud to showcase.
 
-Learning platform with authentication.
-
-### 🤖 AI Assistant
-
-Artificial Intelligence assistant.
+</p>
 
 ---
 
@@ -80,7 +88,7 @@ Artificial Intelligence assistant.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=palak-here&bg_color=0d1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=palak-here&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true"/>
 
 </p>
 
@@ -90,7 +98,7 @@ Artificial Intelligence assistant.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/palak-here/palak-here/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/palak-here/palak-here/output/github-contribution-grid-snake-dark.svg" alt="Snake"/>
 
 </p>
 
@@ -98,10 +106,11 @@ Artificial Intelligence assistant.
 
 # 🌱 Currently Learning
 
-- System Design
-- Cloud Computing
-- Machine Learning
-- Docker
+- ☁️ Cloud Computing
+- ⚙️ System Design
+- 🤖 Machine Learning
+- 🐳 Docker
+- 🚀 Backend Engineering
 
 ---
 
@@ -110,11 +119,11 @@ Artificial Intelligence assistant.
 <p align="center">
 
 <a href="https://www.linkedin.com/in/palak-singh-b174a331b">
-<img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
 
 <a href="mailto:palak02singh05@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=000000"/>
 </a>
 
 </p>
@@ -123,12 +132,12 @@ Artificial Intelligence assistant.
 
 <p align="center">
 
-<i>Keep learning. Keep building. Keep shipping.</i>
+<i>"Keep learning. Keep building. Keep shipping."</i>
 
 </p>
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=120&section=footer"/>
 
 </p>
